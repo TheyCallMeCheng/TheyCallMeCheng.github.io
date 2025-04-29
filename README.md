@@ -10,9 +10,5 @@
 - Resources
 - Projects
 - Biohacking
-
-## How to View
-
-Simply open the `index.html` file in a web browser.
-
+- 
 ## Created with windsurf and gemini pro 2.5
